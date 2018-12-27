@@ -1,0 +1,4 @@
+##maintwo##
+##右键项目选中Build option.... 然后点击Linker settings 
+##点击添加WSOCK32.LIB
+##在右边的栏目添加-lws2_32
