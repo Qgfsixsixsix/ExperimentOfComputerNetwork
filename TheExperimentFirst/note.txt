@@ -1,0 +1,8 @@
+##client##
+##右键项目选中Linker settings 
+##点击添加ws2_32.dll
+##在右边的栏目添加-lws2_32
+
+##server##
+##右键项目选中Linker settings 
+##点击添加WSOCK32.LIB
