@@ -1,4 +1,4 @@
 ##ipmulticast.txt##
-##佑壹钅啃选中Build option...然后点击Linker settings
+##佑壹钅垦≈衎uild option...然后点击Linker settings
 ## 点击添加ws2_32.dll
 ## 在右边的栏目添加-lws2_32
